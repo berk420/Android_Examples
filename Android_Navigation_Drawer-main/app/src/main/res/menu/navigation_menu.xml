@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+    <item android:id="@+id/Motor"
+        android:icon="@drawable/ic_baseline_sports_motorsports_24"
+        android:title="Motor" />
+    <item android:id="@+id/Hokey"
+        android:icon="@drawable/ic_baseline_sports_hockey_24"
+        android:title="Hokey"/>
+    <item android:id="@+id/Golf"
+        android:icon="@drawable/ic_baseline_sports_golf_24"
+        android:title="golf"/>
+</menu>

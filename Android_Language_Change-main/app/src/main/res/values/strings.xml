@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Languge_change</string>
+    <string name="greet">Hello this is English language </string>
+    <string name="go">Go</string>
+    <string name="eat">I eat apple</string>
+    <string name="first_number">First Number</string>
+    <string name="Turkish">Turkish</string>
+    <string name="English">English</string>
+    <string name="second_number">Second Number</string>
+    <string name="add_radiobut">Add</string>
+    <string name="sub_radiobut">Subtract</string>
+
+    <string name="mult_radiobut">Multiply</string>
+
+    <string name="div_radiobut">Divide</string>
+
+    <string name="result">Result:</string>
+
+    <string name="calculate">Calculate</string>
+    <string name="give_temp">Give the temperature</string>
+    <string name="submit">Submit</string>
+
+
+
+</resources>

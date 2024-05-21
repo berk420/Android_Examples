@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Languge_change</string>
+    <string name="greet">Selam burası turkce</string>
+    <string name="go">Hadi</string>
+    <string name="eat">Elma ye</string>
+    <string name="first_number">İlk numara</string>
+    <string name="Turkish">Türkçe</string>
+    <string name="English">İngilizce</string>
+    <string name="second_number">İkinci sayı</string>
+    <string name="add_radiobut">Topla</string>
+    <string name="sub_radiobut">Çıkarma</string>
+
+    <string name="mult_radiobut">Çarpma</string>
+
+    <string name="div_radiobut">Bölme</string>
+
+    <string name="result">Sonuç:</string>
+
+    <string name="calculate">Hesaplama</string>
+    <string name="give_temp">Sıcaklık girin</string>
+    <string name="submit">Gönder</string>
+
+</resources>
