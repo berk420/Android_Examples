@@ -1,4 +1,6 @@
 # Android_Examples
+I did all of this in poland when i am erasmus. 
+These example actually my Android developing lessons homework on Politechnika Lubelska University.
 ![228217974-02a07e2e-e658-4665-beaa-61004da1ecc8](https://github.com/berk420/Android_Examples/assets/63772343/5c6f1bca-9837-4df1-b3d0-ff3c6e7eea93)
 ![228218070-ca493eed-6611-413d-901c-a36100dcf774](https://github.com/berk420/Android_Examples/assets/63772343/f9fb78aa-a216-4d14-bf12-77a3e53f48ff)
 ![228217569-9bad470d-7bb0-4798-8a07-828bddf78530](https://github.com/berk420/Android_Examples/assets/63772343/9fe6a162-e1a9-408f-a619-813178844736)
